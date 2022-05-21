@@ -1,0 +1,29 @@
+/* ------------------------------------------------------------------ admin.css ----------------------------------------------------- */
+.addData input{
+    width: fit-content;
+    margin-top: 10px;
+    margin-left: 10px;
+    cursor: text;
+    background: transparent;
+    border: none;
+    outline: none;
+    font-weight: 500;
+    font-size: 18px;
+    color: #EBF0F2;
+}
+
+.addData button{
+    font-size: 14px;
+    width: fit-content;
+    height: 5vh;
+    color: #EBF0F2;
+    border-color: #EBF0F2;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.addData button:hover{
+    color: #313E40;
+    border-color: #313E40;
+    background: #EBF0F2;
+}
